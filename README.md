@@ -1,8 +1,11 @@
-# Electricity-bill-Generator
-A bill generator system, done using  PHP, MYSQL, HTML, CSS, BOOTSTRAP.
+# Electricity-Bill-Generation-System
 
- To run this project on your system, Your system needs xampp or wampp server.
+This Project is Done using PHP,MYSQL,HTML,CSS,BOOTSTRAP
 
-In admin portal, USER : admin PASS : admin
+If you want to run this project on your system ,Your system needs xampp or wampp server.
+
+In admin portal , 
+USER : admin
+PASS : admin
 
 And you have to import the given sql file in your mysql.
